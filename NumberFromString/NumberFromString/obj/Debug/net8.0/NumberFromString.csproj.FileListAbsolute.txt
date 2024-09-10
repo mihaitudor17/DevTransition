@@ -1,0 +1,15 @@
+C:\Users\mihai.blaga\Desktop\NumberFromString\NumberFromString\bin\Debug\net8.0\NumberFromString.exe
+C:\Users\mihai.blaga\Desktop\NumberFromString\NumberFromString\bin\Debug\net8.0\NumberFromString.deps.json
+C:\Users\mihai.blaga\Desktop\NumberFromString\NumberFromString\bin\Debug\net8.0\NumberFromString.runtimeconfig.json
+C:\Users\mihai.blaga\Desktop\NumberFromString\NumberFromString\bin\Debug\net8.0\NumberFromString.dll
+C:\Users\mihai.blaga\Desktop\NumberFromString\NumberFromString\bin\Debug\net8.0\NumberFromString.pdb
+C:\Users\mihai.blaga\Desktop\NumberFromString\NumberFromString\obj\Debug\net8.0\NumberFromString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihai.blaga\Desktop\NumberFromString\NumberFromString\obj\Debug\net8.0\NumberFromString.AssemblyInfoInputs.cache
+C:\Users\mihai.blaga\Desktop\NumberFromString\NumberFromString\obj\Debug\net8.0\NumberFromString.AssemblyInfo.cs
+C:\Users\mihai.blaga\Desktop\NumberFromString\NumberFromString\obj\Debug\net8.0\NumberFromString.csproj.CoreCompileInputs.cache
+C:\Users\mihai.blaga\Desktop\NumberFromString\NumberFromString\obj\Debug\net8.0\NumberFromString.dll
+C:\Users\mihai.blaga\Desktop\NumberFromString\NumberFromString\obj\Debug\net8.0\refint\NumberFromString.dll
+C:\Users\mihai.blaga\Desktop\NumberFromString\NumberFromString\obj\Debug\net8.0\NumberFromString.pdb
+C:\Users\mihai.blaga\Desktop\NumberFromString\NumberFromString\obj\Debug\net8.0\NumberFromString.genruntimeconfig.cache
+C:\Users\mihai.blaga\Desktop\NumberFromString\NumberFromString\obj\Debug\net8.0\ref\NumberFromString.dll
+C:\Users\mihai.blaga\Desktop\NumberFromString\NumberFromString\bin\Debug\net8.0\Resources\InputData.txt
