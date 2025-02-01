@@ -1,11 +1,11 @@
 ﻿using NumberFromString;
+using System.Configuration;
 using System.Text.RegularExpressions;
-
 public class Program
 {
     private static void Main()
     {
-        var lines = File.ReadLines(Constants.filePath);
+        var lines = File.ReadLines(ConfigurationManager.AppSettings["filePath"]);
         int number = 0;
         foreach(var line in lines)
         {
