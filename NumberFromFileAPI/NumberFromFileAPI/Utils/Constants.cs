@@ -1,4 +1,4 @@
-﻿namespace NumberFromString
+﻿namespace NumberFromFileAPI.Utils
 {
     public static class Constants
     {
