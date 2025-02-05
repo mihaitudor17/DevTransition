@@ -51,6 +51,12 @@ builder.Services.AddSwaggerGen(options =>
         }
     });
 });
+
+builder.WebHost.ConfigureKestrel(options =>
+{
+    options.ListenAnyIP(8080);  // API and Swagger will listen on port 5004
+});
+
 builder.Services.AddDbContext<NumbersDbContext>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection")));
 builder.Services.AddControllers();

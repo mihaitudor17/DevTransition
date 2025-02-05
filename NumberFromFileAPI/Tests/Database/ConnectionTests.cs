@@ -4,11 +4,11 @@ using Assert = Xunit.Assert;
 
 namespace Tests.Database
 {
-    public class Connection
+    public class ConnectionTests
     {
         private string _connectionString = "Data Source=NumbersFromString;";
 
-        public Connection()
+        public ConnectionTests()
         {
             SQLitePCL.Batteries.Init();
         }
