@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using NumberFromFileAPI.Data;
 using NumberFromFileAPI.Models;
 using NumberFromFileAPI.Services;
@@ -7,6 +8,7 @@ using System.Text;
 
 namespace NumberFromFileAPI.Controllers
 {
+    [Authorize]
     public class NumberFromStringController : Controller
     {
         private readonly NumbersDbContext _context;
